@@ -1,7 +1,5 @@
 #pragma once
 
-#include "utilities.h"
-
 #ifdef HAS_SDCARD
 #include <SD.h>
 #endif
